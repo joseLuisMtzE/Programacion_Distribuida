@@ -10,7 +10,7 @@ public class App
     public static void main( String[] args )
     {
         Polygon s = new Square(5);
-        Polygon r = new Rectangle(12);
+        Polygon r = new Rectangle(12,6);
         Polygon c = new Circle(7);
 
         System.out.println("Square: "+ s.getArea()+", "+ s.getSides());
