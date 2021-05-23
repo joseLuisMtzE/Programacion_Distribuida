@@ -16,7 +16,7 @@ public class App
 //        writeContent(myFile, "Esto es el contenido de la prueba WUUUUUUUU"); //Edit a File
 //        readContent(myFile); //Read a File content
 //        getPath(myFile); //Get the absolute path from file
-        deleteFile(myFile); //Delete File :C
+//        deleteFile(myFile); //Delete File :C
     }
 
     public static void createFile(File myFile){
